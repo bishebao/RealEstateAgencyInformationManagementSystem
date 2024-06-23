@@ -1,0 +1,2 @@
+# RealEstateAgencyInformationManagementSystem
+ 基于ssm的房产中介信息管理系统：角色分为管理员、员工；集成卖家信息，买家信息，房屋管理等功能于一体的系统
